@@ -1,0 +1,13 @@
+SNR = 0  BE = 32626  BER = 0.016313 run time:42 
+SNR = 1  BE = 12772  BER = 0.006386 run time:41 
+SNR = 2  BE = 4089  BER = 0.0020445 run time:42 
+SNR = 3  BE = 984  BER = 0.000492 run time:49 
+SNR = 4  BE = 188  BER = 9.4e-05 run time:57 
+SNR = 5  BE = 19  BER = 9.5e-06 run time:65 
+SNR = 6  BE = 0  BER = 0 run time:64 
+SNR = 7  BE = 0  BER = 0 run time:63 
+SNR = 8  BE = 0  BER = 0 run time:63 
+SNR = 9  BE = 0  BER = 0 run time:63 
+
+run time:549 
+runtimes = 500000

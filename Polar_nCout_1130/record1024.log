@@ -1,0 +1,13 @@
+SNR = 0  BE = 3239280 run time:18462 
+SNR = 1  BE = 405932 run time:20279 
+SNR = 2  BE = 65928 run time:20279 
+SNR = 3  BE = 15373 run time:18825 
+SNR = 4  BE = 1699 run time:16982 
+SNR = 5  BE = 269 run time:16569 
+SNR = 6  BE = 0 run time:16321 
+SNR = 7  BE = 0 run time:16197 
+SNR = 8  BE = 0 run time:16101 
+SNR = 9  BE = 0 run time:16017 
+
+run time:176033 
+runtimes = 500000
